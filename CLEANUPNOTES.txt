@@ -1,0 +1,5 @@
+Cleanup performed:
+- Created .gitignore with .env, node_modules, build, dist.
+- Created .env.example with placeholder API_URL.
+- Added Attribution section to README.md.
+- Created CONTRIBUTING.md.
