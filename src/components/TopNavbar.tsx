@@ -27,10 +27,10 @@ export function TopNavbar() {
         {/* User profile */}
         <button className="flex items-center gap-2 hover:bg-muted rounded-lg px-2 py-1 transition-colors">
           <Avatar className="w-8 h-8">
-            <AvatarImage src="https://api.dicebear.com/7.x/avataaars/svg?seed=user" />
-            <AvatarFallback>JD</AvatarFallback>
+            <AvatarImage src="https://api.dicebear.com/9.x/lorelei/svg?seed=Riley" />
+            <AvatarFallback>S</AvatarFallback>
           </Avatar>
-          <span className="text-sm text-foreground">John Doe</span>
+          <span className="text-sm text-foreground">Subash</span>
           <ChevronDown className="w-4 h-4 text-muted-foreground" />
         </button>
       </div>

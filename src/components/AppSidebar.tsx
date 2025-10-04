@@ -20,9 +20,9 @@ export function AppSidebar({ activeView, onViewChange }: AppSidebarProps) {
       <div className="p-6 border-b border-border">
         <div className="flex items-center gap-2">
           <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-purple-400 to-pink-400 flex items-center justify-center">
-            <span className="text-white">S</span>
+            <span className="text-white">i</span>
           </div>
-          <span className="font-semibold text-foreground">SocialFlow</span>
+          <span className="font-semibold text-foreground">Content Management</span>
         </div>
       </div>
 
