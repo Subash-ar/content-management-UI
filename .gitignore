@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+dist/
+.env
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# macOS system files
+.DS_Store
+
+# Volta toolchain (optional)
+.volta/
+
+# Optional: if you're using a build output directory
+build/

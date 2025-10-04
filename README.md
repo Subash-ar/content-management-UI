@@ -1,7 +1,7 @@
 
-  # SaaS Dashboard UI Design
+  # Social media content management UI Design
+  application done using react and vite , ui of content management application
 
-  This is a code bundle for SaaS Dashboard UI Design. The original project is available at https://www.figma.com/design/mU4jykelVdtNeqxcB2d17Q/SaaS-Dashboard-UI-Design.
 
   ## Running the code
 
